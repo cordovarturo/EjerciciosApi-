@@ -1,6 +1,5 @@
 # API de Promedio de Calificaciones
 
-Link de ejercicios https://drive.google.com/drive/folders/1okkBGuCBP6Vsot93FKg30pphvg6df7U3?usp=sharing
 
 API REST construida con Flask que recive el nombre de un estudiante
 y una lista de calificaciones, y retorna el promedio calculado.
